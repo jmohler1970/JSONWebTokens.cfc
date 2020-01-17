@@ -1,0 +1,12 @@
+{
+    "name":"JWT",
+    "app":{
+        "cfengine":"adobe@2018"
+    },
+    "web":{
+        "http":{
+            "port":8042
+        },
+        "welcomeFiles":"default.cfm"
+    }
+}
